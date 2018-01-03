@@ -1,0 +1,4 @@
+average:75.27
+max:100.00
+min:36.00
+veriance:333.80
